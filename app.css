@@ -209,7 +209,7 @@ body {
     }
 
     .buttons img {
-        margin-bottom: 20px;
+        margin-bottom: 50px;
     }
 
 
@@ -222,11 +222,12 @@ body {
     }
 
     #button {
-        margin-top: 500px;
+        margin-top: 550px;
         justify-content: center;
         margin-right: 50px;
     }
-     #button button:hover {
+
+    #button button:hover {
         transform: translateY(-10px);
     }
 }
