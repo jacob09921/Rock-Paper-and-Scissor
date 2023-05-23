@@ -3,8 +3,7 @@ const rock = document.querySelector('#rock')
 const paper = document.querySelector('#paper')
 const scissor = document.querySelector('#scissor')
 const reset = document.querySelector('#button button')
-const container = document.querySelector('.buttons')
-const containerForNewGame = document.querySelector('#newGame')
+
 
 let word = ''
 
